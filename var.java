@@ -19,6 +19,7 @@ class test{
     public void B(){
         int b = 300;
         System.out.println("B"+b);
+        System.out.println("DONE");
 
     }
    
