@@ -4,7 +4,7 @@ class test{
     public static void main(String[] args){
         int a = 100;
         test t1 = new test();
-        System.out.println("main"+a);
+        System.out.println("mainMETHOD"+a);
         t1.A();
         t3.A();
     }
