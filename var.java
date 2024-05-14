@@ -13,7 +13,7 @@ class test{
         test t2 = new test();
         System.out.println("A"+a);
         t2.B();
-       
+        System.out.println("class B");
         
     }
     public void B(){
